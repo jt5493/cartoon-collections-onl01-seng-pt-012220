@@ -19,4 +19,5 @@ def find_the_cheese(array)# code an argument here
     return
   else
     puts
+  end
 end
